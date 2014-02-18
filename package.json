@@ -1,0 +1,12 @@
+{
+  "name": "simple_object2",
+  "version": "0.0.0",
+  "description": "Just a simple car object",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-simple-mocha": "~0.4.0",
+    "chai": "~1.9.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0"
+  }
+}
