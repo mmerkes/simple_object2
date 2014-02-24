@@ -15,7 +15,7 @@ describe('car object tests', function() {
     car = new Car( 190, "Justin Bieber");
   });
 
-  // I expect that when I create a car with a particular driver
+  // My comment is better than yours.
   // and max speed.
   describe('constructor', function() {
     it('car should be truthy (exists)', function() {
